@@ -7,54 +7,54 @@ export function SocialProofs() {
       <div className="flex gap-10 items-center justify-center w-full ">
         <div className="flex items-center justify-center gap-5">
           <img
-            src={"/unsplash.png"}
+            src={"/intercom.svg"}
             height={32}
             width={32}
-            alt={"logo1"}
+            alt={"Intercom logo"}
           />
-          <span className="text-[#A6A6A6] text-3xl font-semibold">
+          <span className="text-gray text-3xl font-semibold">
             Unsplash
           </span>
         </div>
         <div className="flex items-center justify-center gap-5">
           <img
-            src={"/notion.png"}
+            src={"/notion.svg"}
             height={32}
             width={32}
-            alt={"logo1"}
+            alt={"Notion logo"}
           />
-          <span className="text-[#A6A6A6] text-3xl font-semibold">Notion</span>
+          <span className="text-gray text-3xl font-semibold">Notion</span>
         </div>
         <div className="flex items-center justify-center gap-5">
           <img
-            src={"/inter.png"}
+            src={"/intercom.svg"}
             height={32}
             width={32}
-            alt={"logo1"}
+            alt={"Intercom logo"}
           />
-          <span className="text-[#A6A6A6] text-3xl font-semibold">
+          <span className="text-gray text-3xl font-semibold">
             INTERCOM
           </span>
         </div>
         <div className="flex items-center justify-center gap-5">
           <img
-            src={"/descript.png"}
+            src={"/descript.svg"}
             height={32}
             width={32}
-            alt={"logo1"}
+            alt={"Descript logo"}
           />
-          <span className="text-[#A6A6A6] text-3xl font-semibold">
+          <span className="text-gray text-3xl font-semibold">
             descript
           </span>
         </div>
         <div className="flex items-center justify-center gap-5">
           <img
-            src={"/gram.png"}
+            src={"/grammarly.svg"}
             height={32}
             width={32}
-            alt={"logo1"}
+            alt={"Grammarly logo"}
           />
-          <span className="text-[#A6A6A6] text-3xl font-semibold">
+          <span className="text-gray text-3xl font-semibold">
             grammarly
           </span>
         </div>

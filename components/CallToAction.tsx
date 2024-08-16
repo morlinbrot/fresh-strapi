@@ -6,10 +6,10 @@ export function CallToAction() {
           We’re here to Increase your Productivity
         </h1>
         <img
-          src="/vector_underline.png"
+          src="/underline.svg"
           width={487}
           height={34}
-          alt="underline-vector"
+          alt="underline"
           loading="eager"
         />
         <p class="w-[461px]">
